@@ -1,0 +1,7 @@
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones1Ejercicio\bin\Debug\Funciones1Ejercicio.exe.config
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones1Ejercicio\bin\Debug\Funciones1Ejercicio.exe
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones1Ejercicio\bin\Debug\Funciones1Ejercicio.pdb
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones1Ejercicio\obj\Debug\Funciones1Ejercicio.csproj.AssemblyReference.cache
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones1Ejercicio\obj\Debug\Funciones1Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones1Ejercicio\obj\Debug\Funciones1Ejercicio.exe
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones1Ejercicio\obj\Debug\Funciones1Ejercicio.pdb

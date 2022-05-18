@@ -1,0 +1,6 @@
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones2Ejercicio\bin\Debug\Funciones2Ejercicio.exe.config
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones2Ejercicio\bin\Debug\Funciones2Ejercicio.exe
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones2Ejercicio\bin\Debug\Funciones2Ejercicio.pdb
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones2Ejercicio\obj\Debug\Funciones2Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones2Ejercicio\obj\Debug\Funciones2Ejercicio.exe
+C:\Users\NakamaElLocoManXD\source\repos\Funciones1Ejercicio\Funciones2Ejercicio\obj\Debug\Funciones2Ejercicio.pdb
